@@ -40,20 +40,6 @@ Este projeto demonstra a implementação do algoritmo KNN utilizando a bibliotec
 
 - [Repositório do Projeto](https://github.com/TorresCode/IA)
 
----
-
-## Contato
-
-[GitHub](https://github.com/TorresCode) | [LinkedIn](https://www.linkedin.com/in/torrescode) | seu.email@example.com
-
----
-
-### Agradecimentos
-
-Agradeço à comunidade de código aberto e aos desenvolvedores de bibliotecas que tornam projetos como este possíveis.
-
-![Footer Image](https://user-images.githubusercontent.com/your-username/footer.png)
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -74,3 +60,4 @@ Agradeço à comunidade de código aberto e aos desenvolvedores de bibliotecas q
   <a href="https://www.linkedin.com/in/torrescode" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
