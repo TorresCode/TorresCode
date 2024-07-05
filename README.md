@@ -9,16 +9,6 @@
 
 - 🔭 Hoje trabalho com Full Stack e Mobile
 - 🌱 Estudando IA(Machine Learning)
-  
-## Tecnologias que Uso
-
-- **Front-End:** HTML, CSS, JavaScript
-- **Back-End:** PHP, Laravel
-- **Mobile:** React Native, Flutter
-- **Banco de Dados:** MySQL
-- **Outros:** Git, GitHub, GitLab
-
----
 
 ## Projetos Destacados
 
