@@ -13,7 +13,7 @@
 ## Tecnologias que Uso
 
 - **Front-End:** HTML, CSS, JavaScript
-- **Back-End:** PHP, Laravel, Angular
+- **Back-End:** PHP, Laravel
 - **Mobile:** React Native, Flutter
 - **Banco de Dados:** MySQL
 - **Outros:** Git, GitHub, GitLab
