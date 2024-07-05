@@ -18,7 +18,7 @@
 
 Este projeto demonstra a implementação do algoritmo KNN utilizando a biblioteca scikit-learn em Python. É um exemplo prático de como o KNN pode ser aplicado em problemas de classificação e regressão.
 
-- [Repositório do Projeto](https://github.com/TorresCode/IA)
+- [Repositório do Projeto](https://github.com/TorresCode/ClassificarKNN)
 
 
  ## Contacto
