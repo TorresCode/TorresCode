@@ -1,7 +1,57 @@
 ## Olá sou Alfredo Torres (TorresCode) Desenvolvidor Full Stack & Mobile 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+# Bem-vindo ao Meu Perfil!
+
+![GitHub Banner](https://user-images.githubusercontent.com/your-username/knn-banner.png)
+
+---
+
+## Sobre Mim
+
+Olá! Eu sou **Torres Code**, um desenvolvedor web e mobile com experiência em desenvolvimento de sistemas e ecommerces. Atualmente, estou focado em projetos que utilizam **React Native** e **Flutter** para mobile e **PHP** e **Laravel** para backend. Este repositório destaca alguns dos meus trabalhos e projetos de aprendizado, incluindo a implementação do algoritmo K-Nearest Neighbors (KNN).
+
+---
+
+## Estatísticas do GitHub
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=TorresCode&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresCode&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
+</div>
+
+---
+
+## Tecnologias que Uso
+
+- **Front-End:** HTML, CSS, JavaScript, React, Angular
+- **Back-End:** PHP, Laravel, Node.js
+- **Mobile:** React Native, Flutter
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **Outros:** Git, Docker, Kubernetes
+
+---
+
+## Projetos Destacados
+
+### K-Nearest Neighbors com Scikit-Learn
+
+Este projeto demonstra a implementação do algoritmo KNN utilizando a biblioteca scikit-learn em Python. É um exemplo prático de como o KNN pode ser aplicado em problemas de classificação e regressão.
+
+- [Repositório do Projeto](https://github.com/TorresCode/IA)
+
+---
+
+## Contato
+
+[GitHub](https://github.com/TorresCode) | [LinkedIn](https://www.linkedin.com/in/torrescode) | seu.email@example.com
+
+---
+
+### Agradecimentos
+
+Agradeço à comunidade de código aberto e aos desenvolvedores de bibliotecas que tornam projetos como este possíveis.
+
+![Footer Image](https://user-images.githubusercontent.com/your-username/footer.png)
 
 
 - 🔭 Hoje trabalho com Full Stack e Mobile
